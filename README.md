@@ -4,7 +4,7 @@
 ### Hello, sunshine☀️! How are you? Oh, your rays are already making my day brighter🌈!                                  I'm passionate AI/ML enthusiast and web developer
 
 <p align="center">
-<img width="194" height="259" alt="download" src="https://github.com/user-attachments/assets/10a6cdb9-9032-4013-9f8e-e220686024b7" />
+< <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="80%"/>" />
 
 
 Crafting smooth user interfaces by day and exploring neural networks by night. I’m dedicated to bridging the gap between front-end aesthetics and backend intelligence to deliver truly smart web applications. Driven by curiosity and creative problem-solving, I'm always eager to learn, innovate, and contribute to cool new tech.
